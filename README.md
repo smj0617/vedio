@@ -7,4 +7,4 @@
 ## 제출 영상
 
 - 주제: TDD 강점과 한계
-- 영상 URL: [https://www.youtube.com/watch?v=VIDEO_ID](https://youtube.com/shorts/EbF07Rhph10?feature=share)
+- 영상 URL: [https://www.youtube.com/watch?v=EbF07Rhph10](https://youtube.com/shorts/EbF07Rhph10?feature=share)
